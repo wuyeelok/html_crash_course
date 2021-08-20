@@ -9,3 +9,9 @@
   text-align: center;
   font-size: 18px;
 }
+
+.link:link,
+.link:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+}
